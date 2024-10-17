@@ -4,24 +4,37 @@
 
 - [[Poliarchia (Dahl)]]
 
+## Model propagandy Chomskiego
+
+### Ownership
+
+### Advertising
+
+### Sourcing
+
+### Flak
+- SLAPP
+- Relacja zależności
+
+### Anti-Communism and fear
+
+### +Pustynie medialne
+
+### +Bias / skrzywienie polityczne
+
 ## Perspektywy na role mediów
 
 - Watchdog 
+	- Krytyka władzy
+	- Rozliczalność władzy
 - Guard dog
 - Lap dog
-- Part of power olygarchy 
+- Part of power olygarchy (Big dog)
 
-## Pustynie medialne
+## Definicja niezależności
 
-## (Nie) zależność
+## Definicja pluralizmu medialnego
 
-### SLAPP
-- brak profesjonalnej ochrony prawnej
-- 
-### Froma zależności
 
-### Bias / skrzywienie polityczne
 
-### Krytyka władzy i innych ważnych
 
-### Rozliczalność (accountability)
