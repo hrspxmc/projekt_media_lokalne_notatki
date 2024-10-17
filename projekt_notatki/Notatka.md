@@ -4,19 +4,21 @@
 
 - [[Poliarchia (Dahl)]]
 
-## Model propagandy Chomskiego
+## Model propagandy Hermana i Chomskiego
 
-### Ownership
+### Własność
 
-### Advertising
+### Źródło finansowania
 
-### Sourcing
+### Źródło informacji
 
 ### Flak
 - SLAPP
-- Relacja zależności
-
-### Anti-Communism and fear
+- Presja ze strony władz / biznesu
+- Wykorzystanie relacji zależności, negatywny wpływ kapitału społecznego
+- Cenzura / autocenzura
+- Nękanie / prześladowania
+### Wpływ panującej ideologii
 
 ### +Pustynie medialne
 
