@@ -8,5 +8,7 @@
   "shimmering-focus@@show-sidebar-toggle-buttons": true,
   "shimmering-focus@@show-close-buttons": true,
   "shimmering-focus@@normal-header-bar": true,
-  "shimmering-focus@@vim-active-visual-line": true
+  "shimmering-focus@@vim-active-visual-line": true,
+  "shimmering-focus@@active-line-highlight": "active-line-background",
+  "shimmering-focus@@image-size": 80
 }
