@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "21fd6f38010dc6d3",
+        "id": "5573daceeb05a1e0",
         "type": "tabs",
+        "dimension": 60.14319809069213,
         "children": [
           {
-            "id": "43920eb5307fd487",
+            "id": "3bb155462050fac2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +20,23 @@
               },
               "icon": "lucide-file",
               "title": "Notatka"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bf2da3668e9f6ce9",
+        "type": "tabs",
+        "dimension": 39.856801909307876,
+        "children": [
+          {
+            "id": "5315280fec1acdac",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {},
+              "icon": "dot-network",
+              "title": "Mind Map of Notatka"
             }
           }
         ]
@@ -173,11 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43920eb5307fd487",
+  "active": "3bb155462050fac2",
   "lastOpenFiles": [
-    "Poliarchia (Dahl).md",
-    "Notatka.md",
     "img/Pasted image 20241016213408.png",
+    "Notatka.md",
+    "Poliarchia (Dahl).md",
+    "img/Pasted image 20241018091409.png",
     "img",
     "Welcome.md"
   ]
