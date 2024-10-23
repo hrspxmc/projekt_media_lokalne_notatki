@@ -17,9 +17,7 @@
                 "file": "Notatka.md",
                 "mode": "source",
                 "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Notatka"
+              }
             }
           }
         ]
@@ -34,9 +32,7 @@
             "type": "leaf",
             "state": {
               "type": "mindmap",
-              "state": {},
-              "icon": "dot-network",
-              "title": "Mind Map of Notatka"
+              "state": {}
             }
           }
         ]
@@ -59,9 +55,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -76,9 +70,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -86,9 +78,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -119,9 +109,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Notatka"
+              }
             }
           },
           {
@@ -133,9 +121,7 @@
                 "file": "Notatka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Notatka"
+              }
             }
           },
           {
@@ -146,9 +132,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -158,9 +142,7 @@
               "type": "outline",
               "state": {
                 "file": "Notatka.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Notatka"
+              }
             }
           },
           {
@@ -168,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "state": {}
             }
           }
         ],
