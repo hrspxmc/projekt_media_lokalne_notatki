@@ -4,38 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "5573daceeb05a1e0",
-        "type": "tabs",
-        "dimension": 60.14319809069213,
+        "id": "70091a5e1e11fecd",
+        "type": "split",
         "children": [
           {
-            "id": "3bb155462050fac2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notatka.md",
-                "mode": "source",
-                "source": true
+            "id": "5573daceeb05a1e0",
+            "type": "tabs",
+            "dimension": 61.89573459715639,
+            "children": [
+              {
+                "id": "3bb155462050fac2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notatka.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Notatka"
+                }
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "bf2da3668e9f6ce9",
-        "type": "tabs",
-        "dimension": 39.856801909307876,
-        "children": [
+            ]
+          },
           {
-            "id": "5315280fec1acdac",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+            "id": "9c13514ae0dbe23e",
+            "type": "tabs",
+            "dimension": 38.1042654028436,
+            "children": [
+              {
+                "id": "16f9088ae05aefb3",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {},
+                  "icon": "dot-network",
+                  "title": "Mind Map of Notatka"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -55,7 +66,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -70,7 +83,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -78,14 +93,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1fbd88ec66f66b14",
@@ -109,7 +127,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Notatka"
             }
           },
           {
@@ -121,7 +141,9 @@
                 "file": "Notatka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notatka"
             }
           },
           {
@@ -132,7 +154,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -142,7 +166,9 @@
               "type": "outline",
               "state": {
                 "file": "Notatka.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Notatka"
             }
           },
           {
@@ -150,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -173,6 +201,7 @@
   },
   "active": "3bb155462050fac2",
   "lastOpenFiles": [
+    "Pasted image 20241025113348.png",
     "img/Pasted image 20241016213408.png",
     "Notatka.md",
     "Poliarchia (Dahl).md",

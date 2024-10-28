@@ -4,18 +4,8 @@
 
 ### Model demokracji: Poliarchia / Pluralizm
 
-Poliarchia cechuje występowanie 7 instytucji, stanowiących łącznie jej warunek niezbędny (słownik PWN): 
-- wybór przedstawicieli
-- wolne i uczciwe wybory
-- powszechne prawo wyborcze
-- bierne prawo wyborcze
-- wolność słowa
-- dostęp do informacji
-- swoboda zrzeszeń
-
  ![[Pasted image 20241016213408.png]]
  ![[img/Pasted image 20241018091409.png]]
-
 
 ### Pluralizm medialny
 
@@ -31,15 +21,7 @@ Sfera publiczna powinna być zarówno miejscem sporu politycznego i konfliktu, a
 
 ### Niezależność mediów (independence)
 
-"What We Talk About When We Talk About Media Independence" (Karppinen & Moe, 2016):
-
-Ten artykuł analizuje pojęcie “niezależności mediów” w różnych kontekstach i to jak różnie jest używany zależnie od typu mediów. Autorzy wyjaśniają, że tradycyjnie niezależność mediów oznaczała całkowitą autonomię od zewnętrznych sił, takich jak kontrola państwowa czy interesy komercyjne. 
-
-Jednak we współczesnym środowisku medialnym, pojęcie to staje się coraz bardziej złożone i używane retorycznie, szczególnie ze względu na cyfrowe transformacje, pojawienie się nowych aktorów medialnych i zacieranie się granic między dziennikarstwem a reklamą. 
-
-Artykuł krytycznie bada, w jaki sposób zarówno nadawcy publiczni, jak i media komercyjne używają pojęcia "niezależności" jako narzędzia retorycznego, podkreślając różne aspekty niezależności w zależności od ich strategicznych potrzeb (media publiczne są wolne od wpływu reklamodawców, media komercyjne od wpływu rządowego…). 
-
-Autorzy twierdzą, że choć niezależność mediów pozostaje ważnym ideałem normatywnym i wartością w polityce medialnej, jest ona pojęciem relacyjnym i zależnym od kontekstu, co oznacza, że jej definicja i zastosowanie różnią się w zależności od tego, kto jej używa i w jakim celu.
+![[Pasted image 20241025113348.png]]
 
 
 ### Stronniczość mediów (bias)
